@@ -974,11 +974,6 @@
   dependencies:
     "@babel/runtime" "^7.13.10"
 
-"@react-oauth/google@^0.12.1":
-  version "0.12.1"
-  resolved "https://registry.npmjs.org/@react-oauth/google/-/google-0.12.1.tgz"
-  integrity sha512-qagsy22t+7UdkYAiT5ZhfM4StXi9PPNvw0zuwNmabrWyMKddczMtBIOARflbaIj+wHiQjnMAsZmzsUYuXeyoSg==
-
 "@remix-run/router@1.14.0":
   version "1.14.0"
   resolved "https://registry.npmjs.org/@remix-run/router/-/router-1.14.0.tgz"
@@ -2171,6 +2166,11 @@ goober@^2.1.10:
   version "2.1.13"
   resolved "https://registry.npmjs.org/goober/-/goober-2.1.13.tgz"
   integrity sha512-jFj3BQeleOoy7t93E9rZ2de+ScC4lQICLwiAQmKMg9F6roKGaLSHoCDYKkWlSafg138jejvq/mTdvmnwDQgqoQ==
+
+google-oauth-gsi@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.npmjs.org/google-oauth-gsi/-/google-oauth-gsi-4.0.0.tgz"
+  integrity sha512-6A2QTSB4iPPfqd7spIOnHLhP4Iu8WeZ7REq+zM47nzIC805FwgOTFj5UsatKpMoNDsmb2xXG2GpKKVNBxbE9Pw==
 
 graceful-fs@^4.1.6, graceful-fs@^4.2.0:
   version "4.2.11"
